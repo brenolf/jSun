@@ -1,7 +1,7 @@
 jSun
 ====
 
-jSun was prior a technical course project and then extended to allow commercial use. It is a light-weight javascript library featuring mainly a selector parsing, DOM animation, graph ADT, browser data, AJAX access and DOM movement. 
+jSun was prior a technical course project and then extended to allow commercial use. It is a light-weight JavaScript library featuring mainly a selector parsing, DOM animation, graph ADT, browser data, AJAX access and DOM movement. 
 
 However, all these features are easily found in others frameworks and, as jSun was prior designed for learning, maybe there are better ways to do these jobs. Nonetheless, one may use it normally.
 
